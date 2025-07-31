@@ -49,7 +49,7 @@
                         </div>
 
                         <div class="heading">
-                            <h2>Welcome Back</h2>
+                            <h2>KIA SERVICE APARTEMEN</h2>
                         </div>
 
                         @if (session('error'))
