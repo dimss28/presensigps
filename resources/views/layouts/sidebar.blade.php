@@ -7,9 +7,8 @@
                  <i class="ti ti-fingerprint" style="font-size:32px !important"></i>
                  {{-- <img src="{{ asset('assets/img/logo/hibah.png') }}" alt="" width="64"> --}}
              </span>
-             <span class="app-brand-text demo menu-text fw-bold"><i><b>e</b></i>PresensiV2</span>
+             <span class="app-brand-text demo menu-text fw-bold"><i><b>presensi</b></i></span>
          </a>
-
          <a href="javascript:void(0);" class="layout-menu-toggle menu-link text-large ms-auto">
              <i class="ti menu-toggle-icon d-none d-xl-block ti-sm align-middle"></i>
              <i class="ti ti-x d-block d-xl-none ti-sm align-middle"></i>

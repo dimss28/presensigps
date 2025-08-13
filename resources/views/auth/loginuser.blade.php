@@ -44,7 +44,7 @@
                     <form id="formAuthentication" class="mb-3" action="{{ route('login') }}" method="POST">
                         @csrf
                         <div class="logo">
-                            <img src="{{ asset('assets/login/images/logoweb-1.png') }}" alt="easyclass" />
+                            <img src="{{ asset('assets/img/logo/images.png') }}" alt="easyclass" />
                             <h4>E-PRESENSI V2</h4>
                         </div>
 

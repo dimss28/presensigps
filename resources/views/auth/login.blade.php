@@ -59,7 +59,7 @@
                 <div class="card-body">
                     <!-- Logo -->
                     <div class="app-brand justify-content-center mb-4 mt-2">
-                        {{-- <img src="{{ asset('assets/img/logo/hibah.png') }}" alt="" width="160"> --}}
+                        <img src="{{ asset('assets/img/logo/images.png') }}" alt="" width="160">
                     </div>
                     <!-- /Logo -->
                     <h4 class="mb-1 pt-2">E-PRESENSI! 👋</h4>
